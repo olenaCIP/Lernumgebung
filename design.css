@@ -1,4 +1,4 @@
-h1{
+h1 {
     font-family: "Adobe Devanagari";
 }
 
@@ -63,19 +63,19 @@ nav > ul > li > a {
 }
 
 nav > ul > li:hover {
-    background-color: rgb( 40, 44, 47 );
+    background-color: rgb(40, 44, 47);
 }
 
 nav > ul > li:hover > a {
-    color: rgb( 255, 255, 255 );
+    color: rgb(255, 255, 255);
 }
 
 nav > ul > li:hover > a > .caret {
-    border-top-color: rgb( 255, 255, 255 );
+    border-top-color: rgb(255, 255, 255);
 }
 
 nav > ul > li > div {
-    background-color: rgb( 40, 44, 47 );
+    background-color: rgb(40, 44, 47);
     border-top: 0;
     border-radius: 0 0 4px 4px;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
@@ -111,7 +111,7 @@ nav > ul > li > div ul > li > a {
 }
 
 nav > ul > li > div ul > li:hover > a {
-    background-color: rgba( 255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 div.textbody {
