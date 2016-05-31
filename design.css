@@ -117,3 +117,15 @@ nav > ul > li > div ul > li:hover > a {
 div.textbody {
     margin-left: 10mm;
 }
+
+figure {
+    margin: 0;
+    padding: 10px;
+    width: 470px;
+    height: 300px;
+}
+
+figcaption {
+    padding: 10px;
+    text-align: center;
+}
